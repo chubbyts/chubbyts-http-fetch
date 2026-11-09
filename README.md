@@ -30,7 +30,7 @@ through the injected factories and helpers only. It uses the web standard global
 
 ## Requirements
 
- * node: 22
+ * node: >=22
  * [@chubbyts/chubbyts-http-types][2]: ^4.0.0
 
 ## Installation
